@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\26f47bb7b69edfe84aa519e5249d4e1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6a3593229a11b59bb1667267071e638d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\ccc8ca07b3da89830b30cf47bf08735f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\8c4e9141b9ec1ffd22b0dccaacf46403\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\3e4856a9745e32b37d8c7aa6341b5cff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\94ed015bdb42210f9ac84f0ba1581fa2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\68977f92e0f2c4b5a39466f81eb0abc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\842f73bd4cf78e6d049980e3635e3a22\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bc0c29682554778a88e99587b8327b36\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\87070d96562d1ba0562c2be90adfe7cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\34802810a775630730fbbf87c9ad956b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f5a1fa79241603f14c6f8cf233c7ab0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6a3593229a11b59bb1667267071e638d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6a3593229a11b59bb1667267071e638d\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.chaos.tallerandroid_02.MainActivity
+ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.chaos.tallerandroid_02.MenuActivity
+ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:19:19-47
+activity#com.example.chaos.tallerandroid_02.VerEstadisticasActivity
+ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:20:9-70
+	android:name
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml:20:19-58
+uses-sdk
+INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\26f47bb7b69edfe84aa519e5249d4e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\26f47bb7b69edfe84aa519e5249d4e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6a3593229a11b59bb1667267071e638d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\6a3593229a11b59bb1667267071e638d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\ccc8ca07b3da89830b30cf47bf08735f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\ccc8ca07b3da89830b30cf47bf08735f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\8c4e9141b9ec1ffd22b0dccaacf46403\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\8c4e9141b9ec1ffd22b0dccaacf46403\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\3e4856a9745e32b37d8c7aa6341b5cff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\3e4856a9745e32b37d8c7aa6341b5cff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\94ed015bdb42210f9ac84f0ba1581fa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\94ed015bdb42210f9ac84f0ba1581fa2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\68977f92e0f2c4b5a39466f81eb0abc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\68977f92e0f2c4b5a39466f81eb0abc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\842f73bd4cf78e6d049980e3635e3a22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\842f73bd4cf78e6d049980e3635e3a22\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bc0c29682554778a88e99587b8327b36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\bc0c29682554778a88e99587b8327b36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\87070d96562d1ba0562c2be90adfe7cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\87070d96562d1ba0562c2be90adfe7cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\34802810a775630730fbbf87c9ad956b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\34802810a775630730fbbf87c9ad956b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f5a1fa79241603f14c6f8cf233c7ab0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Chaos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4f5a1fa79241603f14c6f8cf233c7ab0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chaos\Desktop\Android\Taller\TallerAndroid_02\app\src\main\AndroidManifest.xml
