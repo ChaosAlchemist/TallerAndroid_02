@@ -112,53 +112,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Chaos\\Desktop\\Android\\Taller\\TallerAndroid_02\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Chaos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\842f73bd4cf78e6d049980e3635e3a22\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1809",
-                        "endColumns": "100",
-                        "endOffsets": "1905"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Chaos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\26f47bb7b69edfe84aa519e5249d4e1a\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,201,296,396,478,575,681,757,833,911,1007,1103,1198,1295,1390,1488,1637,1731",
-                        "endColumns": "95,94,99,81,96,105,75,75,77,95,95,94,96,94,97,148,93,77",
-                        "endOffsets": "196,291,391,473,570,676,752,828,906,1002,1098,1193,1290,1385,1483,1632,1726,1804"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\Chaos\\Desktop\\Android\\Taller\\TallerAndroid_02\\app\\build\\intermediates\\res\\merged\\debug\\values-land_values-land.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Chaos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\26f47bb7b69edfe84aa519e5249d4e1a\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\Chaos\\Desktop\\Android\\Taller\\TallerAndroid_02\\app\\build\\intermediates\\res\\merged\\debug\\values-gl_values-gl.arsc.flat",
             "map": [
                 {
@@ -186,6 +139,53 @@
                         "startOffsets": "1972",
                         "endColumns": "100",
                         "endOffsets": "2068"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Chaos\\Desktop\\Android\\Taller\\TallerAndroid_02\\app\\build\\intermediates\\res\\merged\\debug\\values-land_values-land.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Chaos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\26f47bb7b69edfe84aa519e5249d4e1a\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Chaos\\Desktop\\Android\\Taller\\TallerAndroid_02\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Chaos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\842f73bd4cf78e6d049980e3635e3a22\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1809",
+                        "endColumns": "100",
+                        "endOffsets": "1905"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Chaos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\26f47bb7b69edfe84aa519e5249d4e1a\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,201,296,396,478,575,681,757,833,911,1007,1103,1198,1295,1390,1488,1637,1731",
+                        "endColumns": "95,94,99,81,96,105,75,75,77,95,95,94,96,94,97,148,93,77",
+                        "endOffsets": "196,291,391,473,570,676,752,828,906,1002,1098,1193,1290,1385,1483,1632,1726,1804"
                     }
                 }
             ]
@@ -511,38 +511,6 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Chaos\\Desktop\\Android\\Taller\\TallerAndroid_02\\app\\build\\intermediates\\res\\merged\\debug\\values-sk_values-sk.arsc.flat",
-            "map": [
-                {
-                    "source": "C:\\Users\\Chaos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\26f47bb7b69edfe84aa519e5249d4e1a\\res\\values-sk\\values-sk.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,212,312,423,509,617,735,816,897,981,1086,1195,1294,1400,1511,1620,1786,1884",
-                        "endColumns": "106,99,110,85,107,117,80,80,83,104,108,98,105,110,108,165,97,87",
-                        "endOffsets": "207,307,418,504,612,730,811,892,976,1081,1190,1289,1395,1506,1615,1781,1879,1967"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Chaos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\842f73bd4cf78e6d049980e3635e3a22\\res\\values-sk\\values-sk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "20",
-                        "startColumns": "4",
-                        "startOffsets": "1972",
-                        "endColumns": "100",
-                        "endOffsets": "2068"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "C:\\Users\\Chaos\\Desktop\\Android\\Taller\\TallerAndroid_02\\app\\build\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
             "map": [
                 {
@@ -570,6 +538,38 @@
                         "startOffsets": "105,208,306,414,504,609,726,808,891,973,1074,1183,1282,1389,1498,1603,1765,1862",
                         "endColumns": "102,97,107,89,104,116,81,82,81,100,108,98,106,108,104,161,96,81",
                         "endOffsets": "203,301,409,499,604,721,803,886,968,1069,1178,1277,1384,1493,1598,1760,1857,1939"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Chaos\\Desktop\\Android\\Taller\\TallerAndroid_02\\app\\build\\intermediates\\res\\merged\\debug\\values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Chaos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\26f47bb7b69edfe84aa519e5249d4e1a\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,312,423,509,617,735,816,897,981,1086,1195,1294,1400,1511,1620,1786,1884",
+                        "endColumns": "106,99,110,85,107,117,80,80,83,104,108,98,105,110,108,165,97,87",
+                        "endOffsets": "207,307,418,504,612,730,811,892,976,1081,1190,1289,1395,1506,1615,1781,1879,1967"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Chaos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\842f73bd4cf78e6d049980e3635e3a22\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1972",
+                        "endColumns": "100",
+                        "endOffsets": "2068"
                     }
                 }
             ]
