@@ -17,7 +17,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".MenuActivity" />
-        <activity android:name=".VerEstadisticasActivity" />
         <activity android:name=".RecyclerViewActivity"></activity>
     </application>
 

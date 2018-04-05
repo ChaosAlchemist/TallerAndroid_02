@@ -1,12 +1,26 @@
 package model;
 
-public class Nota {
-    float valor;
-    int porcentaje;
 
-    public Nota(float valor, int porcentaje) {
+public class Nota {
+    private int id;
+    private float valor;
+    private int porcentaje;
+
+
+    public Nota(int id, float valor, int porcentaje) {
+        this.id = id;
         this.valor = valor;
         this.porcentaje = porcentaje;
+
+
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public float getValor() {
@@ -27,9 +41,6 @@ public class Nota {
 
     @Override
     public String toString() {
-        return "Nota{" +
-                "valor=" + valor +
-                ", porcentaje=" + porcentaje +
-                '}';
+        return "N" + this.id + ": → " + this.valor + " → (" + this.porcentaje + ")%";
     }
 }

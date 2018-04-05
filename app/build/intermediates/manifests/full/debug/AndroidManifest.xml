@@ -15,7 +15,6 @@
         android:label="Notchteitor"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.chaos.tallerandroid_02.MainActivity" >
             <intent-filter>
@@ -25,7 +24,6 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.chaos.tallerandroid_02.MenuActivity" />
-        <activity android:name="com.example.chaos.tallerandroid_02.VerEstadisticasActivity" />
         <activity android:name="com.example.chaos.tallerandroid_02.RecyclerViewActivity" />
     </application>
 

@@ -6,13 +6,20 @@ import android.os.Bundle;
 import android.view.Gravity;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
+
+import org.w3c.dom.Text;
+
+import java.util.Calendar;
+import java.util.Date;
 
 import model.Data;
 
 public class MainActivity extends AppCompatActivity {
     private Data data;
     private EditText txtPassword;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         data = new Data();
         txtPassword = (EditText) findViewById(R.id.txtPassword);
+
     }
 
     public void btnIngresarMenuOnClick(View v) {
@@ -41,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
                             Toast.LENGTH_SHORT);
             mensaje.setGravity(Gravity.CENTER | Gravity.CENTER, 0, 0);
             mensaje.show();
+            txtPassword.setText("");
         }
     }
 
